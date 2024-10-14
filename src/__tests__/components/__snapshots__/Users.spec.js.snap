@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`UserComponent > El HTML  se mantiene en las pruebas 1`] = `
+"<div>
+  <h1>Lista de usuarios</h1>
+  <ul></ul>
+</div>"
+`;

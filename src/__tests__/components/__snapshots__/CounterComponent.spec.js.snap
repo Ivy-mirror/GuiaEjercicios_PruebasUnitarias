@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CounterComponent > El HTML se mantiene en las pruebas 1`] = `
+"<div>
+  <h2>Contador</h2>
+  <p id="contador">0</p>
+  <div class="botones"><button id="disminuir">-1</button><button id="aumentar">+1</button><button id="aumentarDos">+2</button><button id="disminuirDos">-1</button></div>
+</div>"
+`;
